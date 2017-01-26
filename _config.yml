@@ -1,4 +1,5 @@
-typography_spectrum: 0.39848327566869557
+layout_spectrum: 0.8594270245448714
+typography_spectrum: 0.8674557678193076
 color:
   brandColors:
     - '#00261C'
@@ -6,11 +7,10 @@ color:
     - '#168039'
     - '#45BF55'
     - '#96ED89'
-  brandStrength: 0.6123413394670933
-  lightness: 0.5133814089931548
-  saturation: 0.17004507221281528
-  rhythmicContrast: 0.03358151740394533
-layout_spectrum: 0.850481677800417
+  brandStrength: 0.6141082562961717
+  lightness: 0.5198310458856533
+  saturation: 0.17242005056000806
+  rhythmicContrast: 0.0036499295383691788
 name: howtochristian
 colors:
   brandColors:
